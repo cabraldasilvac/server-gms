@@ -1,6 +1,6 @@
 # Golden Movie Studio
 
-### Sevidor em memória para treino dos alunos da Jornada EBAC de QA
+### Sevidor em memória para treino da Jornada EBAC de QA
 
 Referência: https://golden-movie-studio.vercel.app/
 
